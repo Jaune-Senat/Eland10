@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-18T15:27:28.250Z" agent="5.0 (X11)" etag="WoRgXKt0Uiq-zK89UpCI" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-18T15:31:30.080Z" agent="5.0 (X11)" etag="w4lTv9cSH0tVtbqC0ESb" version="14.4.2" type="github">
   <diagram id="83nxDZoCT0txb4SYK3vy" name="Page-1">
     <mxGraphModel dx="1350" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="5u_AhWhO7NYXTwfLk4Y--14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="30" y="240" width="690" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5u_AhWhO7NYXTwfLk4Y--15" value="div courte en lien avec le a" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="5u_AhWhO7NYXTwfLk4Y--15" value="figcaption" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="220" y="250" width="260" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5u_AhWhO7NYXTwfLk4Y--16" value="a ou button" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
